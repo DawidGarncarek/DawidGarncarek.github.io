@@ -639,7 +639,9 @@ span {
         font-size: 5rem;
     }
     .home-img img{
-        margin-top:1rem;
+        width: 40vw;
+        height: 40vw; 
+        margin-top:3rem;
     }
 }
 
