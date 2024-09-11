@@ -1190,7 +1190,7 @@ span {
 }
 
 .projects-box .projects-info{
-    display: flex;
+    
     flex-direction: column;
     text-align: left;
     max-height: 200px;
