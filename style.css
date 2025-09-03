@@ -415,7 +415,6 @@ span {
 .home-img img{
     position: relative;
     width: 25vw;
-    height: 25vw;
     border-radius: 50%;
     box-shadow: 0 0 25px var(--main-color);
     cursor: pointer;
@@ -1594,3 +1593,4 @@ footer .copyright {
 .back a i:hover {
     transform: scale(1.1);
 }
+
